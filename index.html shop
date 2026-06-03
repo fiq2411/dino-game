@@ -1,0 +1,15 @@
+<h1>Kedai Online Saya</h1>
+
+<div class="product">
+  <h2>Mouse Gaming</h2>
+  <p>Harga: RM50</p>
+  <button onclick="addToCart('Mouse Gaming')">Add to Cart</button>
+</div>
+
+<div class="product">
+  <h2>Keyboard</h2>
+  <p>Harga: RM120</p>
+  <button onclick="addToCart('Keyboard')">Add to Cart</button>
+</div>
+
+<h3 id="cart">Cart: kosong</h3>
